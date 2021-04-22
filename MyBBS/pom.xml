@@ -18,7 +18,7 @@
 
 		<!-- Hibernate / JPA/mybatis -->
 		<hibernate.version>4.2.1.Final</hibernate.version>
-        <mybatis.version>3.4.5</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
         
         <!-- 通过配置build，结合maven指令generate生成mapper映射文件等 -->
         <mybatis-generator.version>1.3.5</mybatis-generator.version>
