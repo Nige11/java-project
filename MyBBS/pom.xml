@@ -46,7 +46,7 @@
 		<!-- 阿里的jason包 -->
 		<fastjson.version>1.2.38</fastjson.version>
 		<!-- spring security相关的包 -->
-		<spring-security.version>4.2.3.RELEASE</spring-security.version>
+		<spring-security.version>5.2.10.RELEASE</spring-security.version>
 
 	</properties>
 	
