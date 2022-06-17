@@ -44,7 +44,7 @@
 		<validation-api.version>1.1.0.Final</validation-api.version>
 		
 		<!-- 阿里的jason包 -->
-		<fastjson.version>1.2.38</fastjson.version>
+		<fastjson.version>1.2.83</fastjson.version>
 		<!-- spring security相关的包 -->
 		<spring-security.version>4.2.3.RELEASE</spring-security.version>
 
