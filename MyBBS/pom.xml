@@ -33,7 +33,7 @@
 		<junit.version>4.12</junit.version>
 		
 		<!-- mysql.jar -->
-		<mySql.version>5.1.44</mySql.version>
+		<mySql.version>8.0.28</mySql.version>
 		
 		<!-- commons-dbcp -->
 		<commons-dbcp.version>1.4</commons-dbcp.version>
